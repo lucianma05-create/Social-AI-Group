@@ -4,7 +4,7 @@
 
 *代码是否开源：代码将公开（论文中声明"We will release our code and data"）*
 
-*分享人：*
+*分享人：马明晖*
 
 ## 一句话总结内容
 > EMPA是一个基于LLM的说服代理框架，通过实时追踪被说服者的说服状态（Persuasion State Tracer）并维护动态论证记忆（Argument Memory）来提升多轮对话中的说服效果，在人工评估和自动评估中均显著优于现有方法。
@@ -13,7 +13,7 @@
 > 首次在LLM说服代理中引入**双轨机制**：实时说服状态追踪 + 论证记忆管理，实现"知己知彼"的策略性说服。
 
 ## 框架图
-> ![framework](../image/EMPA_framework.png)
+> ![framework](../image/2026031602.png)
 >
 > **框架工作流描述**：EMPA框架包含三个核心模块：（1）**Persuasion State Tracer（说服状态追踪器）**：基于说服状态图（Persuasion State Graph，PSG），将说服过程建模为有限状态机，实时识别被说服者当前状态（Unknown → Undecided → Receptive → Convinced / Resisting），并据此调整回复策略；（2）**Argument Memory（论证记忆库）**：利用LLM摘要将从对话历史中提炼关键论据，存储成功说服策略，支持检索复用；（3）**Persuasion Agent（说服代理）**：结合当前状态表征、论证记忆、用户Query，生成最终说服回复。数据流向：对话历史 → 状态追踪器（输出当前状态） + 记忆库（检索相关论据） → 说服代理 → 生成的回复。
 
@@ -36,9 +36,6 @@
 
 ## 是否有开创性
 > **有较大开创性**：首次系统性地在LLM说服代理中引入"说服状态追踪 + 动态论证记忆"双轨框架，之前的工作（如PersuaderLLM、CoRe）主要关注提示工程或特定策略，没有显式的状态和记忆建模机制。
-
-## 是否属于Vision
-> **不属于纯Vision**：本文属于LLM对话/多智能体交互方向，不涉及视觉理解。但EMPA的框架图设计清晰，状态机建模方法可以迁移到多模态说服场景（如带视觉内容的说服）。
 
 ## 是否属于热点
 > **属于热点**：LLM说服对话（Persuasive Dialogue）是LLM Agent能力的重要应用场景，结合状态追踪和记忆的Agent架构也是当前研究热点（与ReAct、Reflexion等一脉相承）。
