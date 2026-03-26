@@ -12,6 +12,10 @@
 
 - arXiv-2025-A-Mem: Agentic Memory for LLM Agents
 
+### Eval：LLM 评估
+
+- NAACL-2025-CharacterBox: Evaluating the Role-Playing Capabilities of LLMs in Text-Based Virtual Worlds
+
 ### Planing：Agent Planning
 
 - arxiv-2025-Chain-of-Agents: End-to-End Agent Foundation Models
