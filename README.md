@@ -19,61 +19,65 @@ Social-AI-Group/
 ## 📁 现有方向及文章
 
 ### DWM：Dialogue World Model
-
-```
-- arxiv-2025-Dream to Chat: Model-based Reinforcement Learning on Dialogues with User Belief Modeling
-- arXiv-2026-Better LLM Reasoning via Dual-Play
-```
+| 年份 | 会议/期刊 | 论文 | 链接 | 代码 |
+| --- | --- | --- | --- | --- |
+| 2025 | arxiv | Dream to Chat: Model-based Reinforcement Learning on Dialogues with User Belief Modeling | [查看](https://arxiv.org/abs/2508.16876) | 否 |
+| 2026 | arXiv | Better LLM Reasoning via Dual-Play | [查看](https://arxiv.org/abs/2511.11881v3) | 未提及 |
 
 ### Data：Benchmark for LLM Agents
-```
-- NAACL-2025-Communication Makes Perfect: Persuasion Dataset Construction via Multi-LLM Communication
-```
+| 年份 | 会议/期刊 | 论文 | 链接 | 代码 |
+| --- | --- | --- | --- | --- |
+| 2025 | NAACL | Communication Makes Perfect: Persuasion Dataset Construction via Multi-LLM Communication | [查看](https://aclanthology.org/2025.naacl-main.287/) | 将公开 |
 
 ### ED：Empathetic Dialogue Systems
-```
-- ACL-2025-PsyDT- Using LLMs to Construct the Digital Twin of Psychological Counselor with Personalized Counseling Style for Psychological Counseling
-- EMNLP-2023-SoulChat- Improving LLMs’ Empathy, Listening, and Comfort Abilities through Fine-tuning with Multi
-- arXiv-2023-CharacterChat- Learning towards Conversational AI with Personalized Social Support
-- arXiv-2025-Reinforcement Learning with Verifiable Emotion Rewards for Empathetic Agents
-- arXiv-2025-Echo-N1- Affective RL Frontier
-- arXiv-2026-Affective Flow Language Model for Emotional Support Conversation
-```
+| 年份 | 会议/期刊 | 论文 | 链接 | 代码 |
+| --- | --- | --- | --- | --- |
+| 2023 | arXiv | CharacterChat: Learning towards Conversational AI with Personalized Social Support | [查看](https://arxiv.org/abs/2308.10278) | [代码](https://github.com/morecry/CharacterChat) |
+| 2023 | EMNLP | SoulChat: Improving LLMs’ Empathy, Listening, and Comfort Abilities through Fine-tuning with Multi | [查看](https://aclanthology.org/2023.findings-emnlp.83.pdf) | [代码](https://github.com/scutcyr/SoulChat) |
+| 2025 | arXiv | Echo-N1: Affective RL Frontier | [查看](https://arxiv.org/abs/2512.00344v1) | 未提及 |
+| 2025 | ACL | PsyDT: Using LLMs to Construct the Digital Twin of Psychological Counselor with Personalized Counseling Style for Psychological Counseling | [查看](https://arxiv.org/pdf/2412.13660) | [代码](https://github.com/scutcyr/SoulChat2.0) |
+| 2025 | arXiv | Reinforcement Learning with Verifiable Emotion Rewards for Empathetic Agents | [查看](https://arxiv.org/abs/2507.03112v1) | [代码](https://github.com/Tencent/DigitalHuman/tree/main/RLVER) |
+| 2026 | arXiv | Affective Flow Language Model for Emotional Support Conversation | [查看](https://arxiv.org/abs/2602.08826v1) | [代码](https://github.com/chzou25-lgtm/AffectiveFlow) |
 
 ### Memory：Agent Memory
-```
-- arXiv-2025-A-Mem: Agentic Memory for LLM Agents
-- ICLR-2026-MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent
-```
+| 年份 | 会议/期刊 | 论文 | 链接 | 代码 |
+| --- | --- | --- | --- | --- |
+| 2025 | arXiv | A-Mem: Agentic Memory for LLM Agents | [查看](https://arxiv.org/abs/2502.12110) | [代码](https://github.com/WujiangXu/AgenticMemory) |
+| 2026 | ICLR | MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent | [查看](https://arxiv.org/abs/2507.02259) | [代码](https://github.com/BytedTsinghua-SIA/MemAgent) |
 
 ### Planing：Agent Planning
-```
-- arxiv-2025-Chain-of-Agents: End-to-End Agent Foundation Models
-```
+| 年份 | 会议/期刊 | 论文 | 链接 | 代码 |
+| --- | --- | --- | --- | --- |
+| 2025 | arxiv | Chain-of-Agents: End-to-End Agent Foundation Models | [查看](https://arxiv.org/pdf/2508.13167) | [代码](https://github.com/OPPO-PersonalAI/Agent_Foundation_Models) |
 
 ### PD：Persuasive Dialogue Systems
-```
-- ACL-2025-Enhancing Persuasive Dialogue Agents by Synthesizing Cross-Disciplinary Communication Strategies
-- ACL-2025-GAIA: Simulation-free hierarchical latent policy planning for proactive dialogues
-- ICLR-2026-RebuttalAgent: Strategic Persuasion in Academic Rebuttal via Theory of Mind
-- arXiv-2025-ToMAP: Training Opponent-Aware LLM Persuaders with Theory of Mind
-- arxiv-2025-MAPO: Mixed Advantage Policy Optimization for Long-Horizon Multi-Turn Dialogue
-- arxiv-2026-EMPA: Evaluating Persona-Aligned Empathy as a Processmd
-```
+| 年份 | 会议/期刊 | 论文 | 链接 | 代码 |
+| --- | --- | --- | --- | --- |
+| 2025 | ACL | Enhancing Persuasive Dialogue Agents by Synthesizing Cross-Disciplinary Communication Strategies | [查看](https://arxiv.org/abs/2602.22696) | 未提及 |
+| 2025 | ACL | GAIA: Simulation-free hierarchical latent policy planning for proactive dialogues | [查看](https://aclanthology.org/2025.acl-long.261/) | 未提及 |
+| 2025 | arxiv | MAPO: Mixed Advantage Policy Optimization for Long-Horizon Multi-Turn Dialogue | [查看](https://arxiv.org/pdf/2603.06194) | 否 |
+| 2025 | arXiv | ToMAP: Training Opponent-Aware LLM Persuaders with Theory of Mind | [查看](https://arxiv.org/abs/2505.22961) | [代码](https://github.com/ulab-uiuc/ToMAP) |
+| 2026 | arxiv | EMPA: Evaluating Persona-Aligned Empathy as a Process | [查看](https://arxiv.org/abs/2603.00552) | 将公开 |
+| 2026 | ICLR | RebuttalAgent: Strategic Persuasion in Academic Rebuttal via Theory of Mind | [查看](https://arxiv.org/abs/2601.15713) | [代码](https://github.com/Zhitao-He/RebuttalAgent) |
 
 ### Recommend：Recommender Systems
-```
-- KDD-2023-Improving conversational recommendation systems via counterfactual data simulation
-- EMNLP-2024-Beyond Persuasion: Towards Conversational Recommender System with Credible Explanations
-- EMNLP-2025-Towards Personalized Conversational Sales Agents
-- TKDE-2025-A Causal-Based Attribute Selection Strategy for Conversational Recommender Systems
-- WWW-2025-Collaborative Retrieval for Large Language Model-based Conversational Recommender Systems
-```
+| 年份 | 会议/期刊 | 论文 | 链接 | 代码 |
+| --- | --- | --- | --- | --- |
+| 2024 | EMNLP | Beyond Persuasion: Towards Conversational Recommender System with Credible Explanations | [查看](https://aclanthology.org/2024.emnlp-main.4264/) | [代码](https://github.com/mumen798/PC-CRS) |
+| 2025 | TKDE | A Causal-Based Attribute Selection Strategy for Conversational Recommender Systems | [查看](https://ieeexplore.ieee.org/abstract/document/10891447) | 否 |
+| 2025 | WWW | Collaborative Retrieval for Large Language Model-based Conversational Recommender Systems | [查看](https://dl.acm.org/doi/10.1145/3589334.3645347) | [代码](https://github.com/yaochenzhu/CRAG) |
+| 2025 | EMNLP | Towards Personalized Conversational Sales Agents | [查看](https://arxiv.org/abs/2504.08754) | 否 |
+
+### Recommeend：Recommender Systems
+| 年份 | 会议/期刊 | 论文 | 链接 | 代码 |
+| --- | --- | --- | --- | --- |
+| 2023 | KDD | Improving conversational recommendation systems via counterfactual data simulation | [查看](https://dl.acm.org/doi/10.1145/3580305.3599387) | [代码](https://github.com/RUCAIBox/CFCRS) |
 
 ### SN：Social Network
-```
-- AAAI-2024-Adversarial Socialbots Modeling Based on Structural Information Principles
-```
+| 年份 | 会议/期刊 | 论文 | 链接 | 代码 |
+| --- | --- | --- | --- | --- |
+| 2024 | AAAI | Adversarial Socialbots Modeling Based on Structural Information Principles | [../mySetup/27793-Article Text-31847-1-2-20240324.pdf](../mySetup/27793-Article%20Text-31847-1-2-20240324.pdf) | [代码](https://github.com/SELGroup/SIASM) |
+
 
 ## 📌 重要说明
 
