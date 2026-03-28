@@ -17,7 +17,7 @@
 > SIASM 先把整张社交网络按结构熵压缩成层次化社区树，找到哪些社区更可能扩大传播，再在这些高价值社区里挑粉丝，因此既更会“找人”，也更会“藏”。
 
 ## 框架图
-![framework](../image/SN-AAAI-2024-SIASM-framework.png)
+![framework](../image/2026032701.png)
 
 **框架工作流描述**：
 1. 从历史社交消息中抽取用户与多种交互行为（tweet、retweet、mention、reply），构造异构社交网络；
