@@ -17,20 +17,20 @@ Social-AI-Group/
 ### DWM：Dialogue World Model
 | 年份 | 会议/期刊 | 论文 | 链接 | 代码 |
 | --- | --- | --- | --- | --- |
-| 2025 | arxiv | Dream to Chat: Model-based Reinforcement Learning on Dialogues with User Belief Modeling | [查看](https://arxiv.org/abs/2508.16876) | 否 |
-| 2026 | arXiv | Better LLM Reasoning via Dual-Play | [查看](https://arxiv.org/abs/2511.11881v3) | 未提及 |
+| 2025 | arxiv | Dream to Chat: Model-based Reinforcement Learning on Dialogues with User Belief Modeling | [查看](https://arxiv.org/abs/2508.16876) | - |
+| 2026 | arXiv | Better LLM Reasoning via Dual-Play | [查看](https://arxiv.org/abs/2511.11881v3) | [代码](https://hcy123902.github.io/PasoDoble) |
 
 ### Data：Benchmark for LLM Agents
 | 年份 | 会议/期刊 | 论文 | 链接 | 代码 |
 | --- | --- | --- | --- | --- |
-| 2025 | NAACL | Communication Makes Perfect: Persuasion Dataset Construction via Multi-LLM Communication | [查看](https://aclanthology.org/2025.naacl-main.287/) | 将公开 |
+| 2025 | NAACL | Communication Makes Perfect: Persuasion Dataset Construction via Multi-LLM Communication | [查看](https://aclanthology.org/2025.naacl-long.203) | - |
 
 ### ED：Empathetic Dialogue Systems
 | 年份 | 会议/期刊 | 论文 | 链接 | 代码 |
 | --- | --- | --- | --- | --- |
 | 2023 | arXiv | CharacterChat: Learning towards Conversational AI with Personalized Social Support | [查看](https://arxiv.org/abs/2308.10278) | [代码](https://github.com/morecry/CharacterChat) |
 | 2023 | EMNLP | SoulChat: Improving LLMs’ Empathy, Listening, and Comfort Abilities through Fine-tuning with Multi | [查看](https://aclanthology.org/2023.findings-emnlp.83.pdf) | [代码](https://github.com/scutcyr/SoulChat) |
-| 2025 | arXiv | Echo-N1: Affective RL Frontier | [查看](https://arxiv.org/abs/2512.00344v1) | 未提及 |
+| 2025 | arXiv | Echo-N1: Affective RL Frontier | [查看](https://arxiv.org/abs/2512.00344v1) | - |
 | 2025 | ACL | PsyDT: Using LLMs to Construct the Digital Twin of Psychological Counselor with Personalized Counseling Style for Psychological Counseling | [查看](https://arxiv.org/pdf/2412.13660) | [代码](https://github.com/scutcyr/SoulChat2.0) |
 | 2025 | arXiv | Reinforcement Learning with Verifiable Emotion Rewards for Empathetic Agents | [查看](https://arxiv.org/abs/2507.03112v1) | [代码](https://github.com/Tencent/DigitalHuman/tree/main/RLVER) |
 | 2026 | arXiv | Affective Flow Language Model for Emotional Support Conversation | [查看](https://arxiv.org/abs/2602.08826v1) | [代码](https://github.com/chzou25-lgtm/AffectiveFlow) |
@@ -49,20 +49,20 @@ Social-AI-Group/
 ### PD：Persuasive Dialogue Systems
 | 年份 | 会议/期刊 | 论文 | 链接 | 代码 |
 | --- | --- | --- | --- | --- |
-| 2025 | ACL | Enhancing Persuasive Dialogue Agents by Synthesizing Cross-Disciplinary Communication Strategies | [查看](https://arxiv.org/abs/2602.22696) | 未提及 |
-| 2025 | ACL | GAIA: Simulation-free hierarchical latent policy planning for proactive dialogues | [查看](https://aclanthology.org/2025.acl-long.261/) | 未提及 |
-| 2025 | arxiv | MAPO: Mixed Advantage Policy Optimization for Long-Horizon Multi-Turn Dialogue | [查看](https://arxiv.org/pdf/2603.06194) | 否 |
+| 2025 | ACL | Enhancing Persuasive Dialogue Agents by Synthesizing Cross-Disciplinary Communication Strategies | [查看](https://arxiv.org/abs/2602.22696) | - |
+| 2025 | ACL | GAIA: Simulation-free hierarchical latent policy planning for proactive dialogues | [查看](https://aclanthology.org/2025.acl-long.261/) | - |
+| 2025 | arxiv | MAPO: Mixed Advantage Policy Optimization for Long-Horizon Multi-Turn Dialogue | [查看](https://arxiv.org/pdf/2603.06194) | [代码](https://github.com/2200xiaohu/MAPO) |
 | 2025 | arXiv | ToMAP: Training Opponent-Aware LLM Persuaders with Theory of Mind | [查看](https://arxiv.org/abs/2505.22961) | [代码](https://github.com/ulab-uiuc/ToMAP) |
-| 2026 | arxiv | EMPA: Evaluating Persona-Aligned Empathy as a Process | [查看](https://arxiv.org/abs/2603.00552) | 将公开 |
+| 2026 | arxiv | EMPA: Evaluating Persona-Aligned Empathy as a Process | [查看](https://arxiv.org/abs/2603.00552) | [代码](https://github.com/KAYA-HAI/EMPA-Benchmark-EPMSandbox) |
 | 2026 | ICLR | RebuttalAgent: Strategic Persuasion in Academic Rebuttal via Theory of Mind | [查看](https://arxiv.org/abs/2601.15713) | [代码](https://github.com/Zhitao-He/RebuttalAgent) |
 
 ### Recommend：Recommender Systems
 | 年份 | 会议/期刊 | 论文 | 链接 | 代码 |
 | --- | --- | --- | --- | --- |
 | 2024 | EMNLP | Beyond Persuasion: Towards Conversational Recommender System with Credible Explanations | [查看](https://aclanthology.org/2024.emnlp-main.4264/) | [代码](https://github.com/mumen798/PC-CRS) |
-| 2025 | TKDE | A Causal-Based Attribute Selection Strategy for Conversational Recommender Systems | [查看](https://ieeexplore.ieee.org/abstract/document/10891447) | 否 |
+| 2025 | TKDE | A Causal-Based Attribute Selection Strategy for Conversational Recommender Systems | [查看](https://ieeexplore.ieee.org/abstract/document/10891447) | - |
 | 2025 | WWW | Collaborative Retrieval for Large Language Model-based Conversational Recommender Systems | [查看](https://dl.acm.org/doi/10.1145/3589334.3645347) | [代码](https://github.com/yaochenzhu/CRAG) |
-| 2025 | EMNLP | Towards Personalized Conversational Sales Agents | [查看](https://arxiv.org/abs/2504.08754) | 否 |
+| 2025 | EMNLP | Towards Personalized Conversational Sales Agents | [查看](https://arxiv.org/abs/2504.08754) | - |
 
 ### Recommeend：Recommender Systems
 | 年份 | 会议/期刊 | 论文 | 链接 | 代码 |
@@ -72,7 +72,7 @@ Social-AI-Group/
 ### SN：Social Network
 | 年份 | 会议/期刊 | 论文 | 链接 | 代码 |
 | --- | --- | --- | --- | --- |
-| 2024 | AAAI | Adversarial Socialbots Modeling Based on Structural Information Principles | [../mySetup/27793-Article Text-31847-1-2-20240324.pdf](../mySetup/27793-Article%20Text-31847-1-2-20240324.pdf) | [代码](https://github.com/SELGroup/SIASM) |
+| 2024 | AAAI | Adversarial Socialbots Modeling Based on Structural Information Principles | [查看](https://ojs.aaai.org/index.php/AAAI/article/view/27793) | [代码](https://github.com/SELGroup/SIASM) |
 
 
 ## 📌 重要说明
