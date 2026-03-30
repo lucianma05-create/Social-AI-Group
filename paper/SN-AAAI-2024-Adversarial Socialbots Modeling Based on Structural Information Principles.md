@@ -1,9 +1,9 @@
 # SN-AAAI-2024-Adversarial Socialbots Modeling Based on Structural Information Principles
-*论文下载地址（本地）：[../mySetup/27793-Article Text-31847-1-2-20240324.pdf](../mySetup/27793-Article%20Text-31847-1-2-20240324.pdf)*
+*论文下载地址：[AAAI-2024-Adversarial Socialbots Modeling Based on Structural Information Principles](https://ojs.aaai.org/index.php/AAAI/article/view/27793)*
 
 *代码是否开源：是 [https://github.com/SELGroup/SIASM](https://github.com/SELGroup/SIASM)*
 
-*分享人：Codex*
+*分享人：李解*
 
 ## 一句话总结内容
 > 论文提出基于结构信息原理的对抗性社交机器人建模框架 SIASM，把异构社交网络压缩成层次化社区结构，并用结构熵指导活动决策与粉丝选择，在保证隐蔽性的同时最大化传播影响力。
