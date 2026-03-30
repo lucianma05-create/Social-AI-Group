@@ -1,5 +1,5 @@
 # ED-ACL 2025-PsyDT- Using LLMs to Construct the Digital Twin of Psychological Counselor with Personalized Counseling Style for Psychological Counseling
-*论文下载地址：未提及*
+*论文下载地址：[https://arxiv.org/pdf/2412.13660](https://arxiv.org/pdf/2412.13660)*
 
 *代码是否开源：是 https://github.com/scutcyr/SoulChat2.0*
 

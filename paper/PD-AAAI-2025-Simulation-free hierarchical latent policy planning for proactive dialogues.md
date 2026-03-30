@@ -1,7 +1,7 @@
 # PD-AAAI-2025-Simulation-free hierarchical latent policy planning for proactive dialogues
 *论文下载地址：https://arxiv.org/abs/2412.14584*
 
-*代码是否开源：未提及*
+*代码是否开源：否*
 
 *分享人：马明晖*
 
