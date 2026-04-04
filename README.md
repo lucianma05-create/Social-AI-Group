@@ -35,10 +35,10 @@ Social-AI-Group/
 ### Memory：Agent Memory
 | 年份 | 会议/期刊 | 论文 | 链接 | 摘要 | 代码 |
 | --- | --- | --- | --- | --- | --- |
-| 2025 | arXiv | A-Mem: Agentic Memory for LLM Agents | [查看](https://arxiv.org/abs/2502.12110) | [摘要](paper/Memory-arXiv-2025-Evo-Memory- Benchmarking LLM Agent Test-time Learning with Self-Evolving Memory.md) | - |
+| 2025 | arXiv | A-Mem: Agentic Memory for LLM Agents | [查看](https://arxiv.org/abs/2502.12110) | [摘要](https://github.com/lucianma05-create/Social-AI-Group/blob/main/paper/Memory-arXiv-2025-A-Mem%3A%20Agentic%20Memory%20for%20LLM%20Agents.md) | [代码](https://github.com/WujiangXu/AgenticMemory) |
 | 2025 | arXiv | Evo-Memory- Benchmarking LLM Agent Test-time Learning with Self-Evolving Memory | [查看](https://arxiv.org/abs/2511.20857) | [摘要](paper/Memory-arXiv-2025-A-Mem%3A%20Agentic%20Memory%20for%20LLM%20Agents.md) | [代码](https://github.com/WujiangXu/AgenticMemory) |
-| 2025 | arXiv | ReasoningBank-Scaling Agent Self-Evolving with Reasoning Memory | [查看](https://arxiv.org/abs/2509.25140) | [摘要](paper/Memory-arXiv-2025-Evo-Memory- Benchmarking LLM Agent Test-time Learning with Self-Evolving Memory.md) | - |
-| 2025 | arXiv | Remember Me, Refine Me- A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution | [查看](https://arxiv.org/abs/2512.10696) | [摘要](paper/Memory-arXiv-2025-Remember Me, Refine Me- A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution.md) | [代码](https://github.com/agentscope-ai/ReMe) |
+| 2025 | arXiv | ReasoningBank-Scaling Agent Self-Evolving with Reasoning Memory | [查看](https://arxiv.org/abs/2509.25140) | [摘要](https://github.com/lucianma05-create/Social-AI-Group/blob/main/paper/Memory-arXiv-2025-ReasoningBank%20-%20Scaling%20Agent%20Self-Evolving%20with%20Reasoning%20Memory.md) | - |
+| 2025 | arXiv | Remember Me, Refine Me- A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution | [查看](https://arxiv.org/abs/2512.10696) | [摘要](https://github.com/lucianma05-create/Social-AI-Group/blob/main/paper/Memory-arXiv-2025-Remember%20Me%2C%20Refine%20Me-%20A%20Dynamic%20Procedural%20Memory%20Framework%20for%20Experience-Driven%20Agent%20Evolution.md) | [代码](https://github.com/agentscope-ai/ReMe) |
 | 2026 | ICLR | MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent | [查看](https://arxiv.org/abs/2507.02259) | [摘要](paper/Memory-ICLR-2026-MemAgent%3A%20Reshaping%20Long-Context%20LLM%20with%20Multi-Conv%20RL-based%20Memory%20Agent.md) | - |
 ### Planing：Agent Planning
 | 年份 | 会议/期刊 | 论文 | 链接 | 摘要 | 代码 |
