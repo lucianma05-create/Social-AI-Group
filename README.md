@@ -184,4 +184,4 @@ git push origin 分支名
 
 ## 🧠 关于我们
 
-本仓库由 NWPU Crowd-HMT-Lab Social-AI-Group 维护，用于组内学术交流与协作。
+本仓库由 NWPU Crowd-HMT-Lab Social-AI-Group 维护。
