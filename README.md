@@ -7,18 +7,6 @@
 
 </div>
 
-## 📁 仓库结构
-
-```
-Social-AI-Group/
-├── image/              # 存放论文相关的图片、图表等
-├── paper/              # 论文摘要（main）
-├── Example.md          # 论文摘要的撰写范例
-└── ReadMe.md           # 本说明文件
-```
-
----
-
 ## 📚 现有方向及文章
 
 ### DWM：Dialogue World Model
@@ -115,11 +103,17 @@ Social-AI-Group/
 | 2026 | EACL | Let's Put Ourselves in Sally's Shoes: Shoes of Others Prefilling Improves Theory of Mind in LLMs | [查看](https://aclanthology.org/2026.findings-eacl.6/) | [摘要](paper/ToM-EACL-2026-Lets-Put-Ourselves-in-Sallys-Shoes-Shoes-of-Others-Prefilling-Improves-Theory-of-Mind-in-LLMs.md) | - |
 | 2025 | arXiv | ToM-RL: Reinforcement Learning Unlocks Theory of Mind in Small LLMs | [查看](https://arxiv.org/abs/2504.01698) | [摘要](paper/ToM-arXiv-2025-ToM-RL-Reinforcement-Learning-Unlocks-Theory-of-Mind-in-Small-LLMs.md) | [代码](https://github.com/bigai-ai/ToM-R) |
 
-## 📌 重要说明
+---
 
-- 参考 Example.md，了解标准的撰写格式和要求。
+## 📁 仓库结构
 
-- 论文摘要请保证内容精炼、准确，贴合原文核心，便于组内成员快速获取关键信息。
+```
+Social-AI-Group/
+├── image/              # 存放论文相关的图片、图表等
+├── paper/              # 论文摘要（main）
+├── Example.md          # 论文摘要的撰写范例
+└── ReadMe.md           # 本说明文件
+```
 
 ---
 
