@@ -3,7 +3,7 @@
 # 🌐 Awesome Social AI Agent
 
 [![Awesome](https://img.shields.io/badge/Awesome-0066CC?style=for-the-badge&logo=awesome-lists&logoColor=white)](https://github.com/sindresorhus/awesome)
-[![License: MIT](https://img.shields.io/badge/License-MIT-f1c40f.svg?style=for-the-badge&logo=mit&logoColor=white)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache%202.0-red?style=for-the-badge&logo=apache&logoColor=white)](http://www.apache.org/licenses/LICENSE-2.0)
 
 </div>
 
