@@ -95,7 +95,7 @@
 | 2025 | arXiv | DCPO- Dynamic Clipping Policy Optimization | [查看](https://arxiv.org/abs/2509.02333v2) | [摘要](paper/RLHF-arXiv-2025-DCPO-%20Dynamic%20Clipping%20Policy%20Optimization.md) | [代码](https://github.com/lime-RL/DCPO) |
 | 2025 | arXiv | DeepSeek-V3 Technical Report | [查看](https://arxiv.org/abs/2412.19437v2) | [摘要](paper/RLHF-arXiv-2025-DeepSeek-V3%20Technical%20Report.md) | [代码](https://github.com/deepseek-ai/DeepSeek-V3) |
 | 2025 | arXiv | Group Sequence Policy Optimization | [查看](https://arxiv.org/abs/2507.18071v2) | [摘要](paper/RLHF-arXiv-2025-Group%20Sequence%20Policy%20Optimization.md) | - |
-| 2026 | ICLR | Toward Evaluative Thinking: Meta-Policy Optimization with Evolving Reward Models | [查看](https://arxiv.org/abs/2602.00000) | [摘要](paper/RLHF-ICLR-2026-Toward-Evaluative-Thinking-Meta-Policy-Optimization-with-Evolving-Reward-Models.md) | - |
+| 2026 | ICLR | Toward Evaluative Thinking: Meta-Policy Optimization with Evolving Reward Models | [查看](https://arxiv.org/pdf/2504.20157) | [摘要](paper/RLHF-ICLR-2026-Toward-Evaluative-Thinking-Meta-Policy-Optimization-with-Evolving-Reward-Models.md) | - |
 
 ### ToM：Theory of Mind
 | 年份 | 会议/期刊 | 论文 | 链接 | 摘要 | 代码 |
