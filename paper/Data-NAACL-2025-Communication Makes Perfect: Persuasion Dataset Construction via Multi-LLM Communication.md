@@ -1,7 +1,7 @@
 # Data-NAACL-2025-Communication Makes Perfect: Persuasion Dataset Construction via Multi-LLM Communication
 *论文下载地址：https://aclanthology.org/2025.naacl-main.287/*
 
-*代码是否开源：是（论文附录说明会公开）*
+*代码是否开源：https://github.com/HF-heaven/LLM-based_persuasion_simulator/*
 
 *分享人：马明晖*
 
