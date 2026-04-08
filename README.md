@@ -21,7 +21,7 @@
 ### Data：Benchmark for LLM Agents
 | 年份 | 会议/期刊 | 论文 | 链接 | 摘要 | 代码 |
 | --- | --- | --- | --- | --- | --- |
-| 2025 | NAACL | Communication Makes Perfect: Persuasion Dataset Construction via Multi-LLM Communication | [查看](https://aclanthology.org/2025.naacl-main.287/) | [摘要](paper/Data-NAACL-2025-Communication%20Makes%20Perfect%3A%20Persuasion%20Dataset%20Construction%20via%20Multi-LLM%20Communication.md) | - |
+| 2025 | NAACL | Communication Makes Perfect: Persuasion Dataset Construction via Multi-LLM Communication | [查看](https://aclanthology.org/2025.naacl-main.287/) | [摘要](paper/Data-NAACL-2025-Communication%20Makes%20Perfect%3A%20Persuasion%20Dataset%20Construction%20via%20Multi-LLM%20Communication.md) | [代码](https://hcy123902.github.io/PasoDoble/) |
 ### ED：Empathetic Dialogue Systems
 | 年份 | 会议/期刊 | 论文 | 链接 | 摘要 | 代码 |
 | --- | --- | --- | --- | --- | --- |
