@@ -1,5 +1,5 @@
 # Engagement-ARXIV-2025-Enhancing-User-Engagement-in-Socially-Driven-Dialogue-through-Interactive-LLM-Alignments.md
-*论文下载地址（可选）：[https://arxiv.org/abs/2506.21497](sslocal://flow/file_open?url=https%3A%2F%2Farxiv.org%2Fabs%2F2506.21497&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)*
+*论文下载地址（可选）：[https://arxiv.org/abs/2506.21497](https://arxiv.org/abs/2506.21497)*
 
 *代码是否开源：否*
 
