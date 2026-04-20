@@ -13,6 +13,7 @@
 | 年份 | 会议/期刊 | 论文 | 链接 | 摘要 | 代码 |
 | --- | --- | --- | --- | --- | --- |
 | 2006 | KER | A Survey of Statistical User Simulation Techniques for RL Dialogue Management | [查看](https://doi.org/10.1017/S0269888906000944) | [摘要](paper/DMW-KER-2006-A-Survey-of-Statistical-User-Simulation-Techniques-for-RL-Dialogue-Management.md) | - |
+| 2023 | arXiv | Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback | [查看](-) | [摘要](paper/PD+RLHF-arXiv-2023-Improving-Language-Model-Negotiation-with-Self-Play-and-In-Context-Learning-from-AI-Feedback.md) | - |
 | 2025 | COLING | MCA-Model-Based Causal RL for Efficient Dialogue Policy | [查看](https://aclanthology.org/2025.coling-main.490/) | [摘要](paper/DWM-COLING-2025-MCA-Model-Based-Causal-RL-for-Efficient-Dialogue-Policy.md) | - |
 | 2025 | NeurIPS | World Models Should Prioritize the Unification of Physical and Social Dynamics | [查看](https://arxiv.org/pdf/2510.21219/) | [摘要](paper/DWM-NeurIPS-2025-World-Models-Should-Prioritize-the-Unification-of-Physical-and-Social-Dynamics.md) | - |
 | 2025 | arxiv | Dream to Chat: Model-based Reinforcement Learning on Dialogues with User Belief Modeling | [查看](https://arxiv.org/abs/2508.16876) | [摘要](paper/DWM-arxiv-2025-Dream%20to%20Chat%3A%20Model-based%20Reinforcement%20Learning%20on%20Dialogues%20with%20User%20Belief%20Modeling.md) | - |
@@ -33,8 +34,8 @@
 | 2025 | ACL | PsyDT- Using LLMs to Construct the Digital Twin of Psychological Counselor with Personalized Counseling Style for Psychological Counseling | [查看](https://arxiv.org/pdf/2412.13660) | [摘要](paper/ED-ACL-2025-PsyDT-%20Using%20LLMs%20to%20Construct%20the%20Digital%20Twin%20of%20Psychological%20Counselor%20with%20Personalized%20Counseling%20Style%20for%20Psychological%20Counseling.md) | [代码](https://github.com/scutcyr/SoulChat2.0) |
 | 2025 | ACL | PsyDial- A Large-scale Long-term Conversational Dataset for Mental Health Support | [查看](https://aclanthology.org/2025.acl-long.1049/) | [摘要](paper/ED-ACL-2025-PsyDial:%20A%20Large-scale%20Long-term%20Conversational%20Dataset%20for%20Mental%20Health%20Support.md) | [代码](https://github.com/qiuhuachuan/PsyDial) |
 | 2025 | arXiv | Reinforcement Learning with Verifiable Emotion Rewards for Empathetic Agents | [查看](https://arxiv.org/abs/2507.03112v1) | [摘要](paper/ED-arXiv-2025-Reinforcement%20Learning%20with%20Verifiable%20Emotion%20Rewards%20for%20Empathetic%20Agents.md) | [代码](https://github.com/Tencent/DigitalHuman/tree/main/RLVER) |
-| 2026 | arXiv | Affective Flow Language Model for Emotional Support Conversation | [查看](https://arxiv.org/abs/2602.08826v1) | [摘要](paper/ED-arXiv-2026-Affective%20Flow%20Language%20Model%20for%20Emotional%20Support%20Conversation.md) | [代码](https://github.com/chzou25-lgtm/AffectiveFlow) |
 | 2025 | ACL | Beyond Verbal Cues: Emotional Contagion Graph Network for Causal Emotion Entailment | [查看](-) | [摘要](paper/ED-ACL-2025-Beyond%20Verbal%20Cues%3A%20Emotional%20Contagion%20Graph%20Network%20for%20Causal%20Emotion%20Entailment.md) | - |
+| 2026 | arXiv | Affective Flow Language Model for Emotional Support Conversation | [查看](https://arxiv.org/abs/2602.08826v1) | [摘要](paper/ED-arXiv-2026-Affective%20Flow%20Language%20Model%20for%20Emotional%20Support%20Conversation.md) | [代码](https://github.com/chzou25-lgtm/AffectiveFlow) |
 ### Memory：Agent Memory
 | 年份 | 会议/期刊 | 论文 | 链接 | 摘要 | 代码 |
 | --- | --- | --- | --- | --- | --- |
@@ -80,10 +81,6 @@
 | 2026 | CSUR | Must Read- A Comprehensive Survey of Computational Persuasion | [查看](https://dl.acm.org/doi/10.1145/3800687) | [摘要](paper/PD-CSUR-2026-Must%20Read-%20A%20Comprehensive%20Survey%20of%20Computational%20Persuasion.md) | [代码](https://github.com/beyzabozdag/PersuasionSurvey) |
 | 2026 | ICLR | RebuttalAgent: Strategic Persuasion in Academic Rebuttal via Theory of Mind | [查看](https://arxiv.org/abs/2601.15715) | [摘要](paper/PD-ICLR-2026-RebuttalAgent%3A%20Strategic%20Persuasion%20in%20Academic%20Rebuttal%20via%20Theory%20of%20Mind.md) | [代码](https://github.com/Zhitao-He/RebuttalAgent) |
 | 2026 | ICLR | Towards Strategic Persuasion with Language Models | [查看](https://arxiv.org/abs/2509.22989v2) | [摘要](paper/PD-ICLR-2026-Towards%20Strategic%20Persuasion%20with%20Language%20Models.md) | - |
-### PD+RLHF：Persuasive Dialogue + RLHF
-| 年份 | 会议/期刊 | 论文 | 链接 | 摘要 | 代码 |
-| --- | --- | --- | --- | --- | --- |
-| 2023 | arXiv | Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback | [查看](-) | [摘要](paper/PD+RLHF-arXiv-2023-Improving-Language-Model-Negotiation-with-Self-Play-and-In-Context-Learning-from-AI-Feedback.md) | - |
 ### Recommend：Recommender Systems
 | 年份 | 会议/期刊 | 论文 | 链接 | 摘要 | 代码 |
 | --- | --- | --- | --- | --- | --- |
@@ -110,9 +107,8 @@
 ### ToM：Theory of Mind
 | 年份 | 会议/期刊 | 论文 | 链接 | 摘要 | 代码 |
 | --- | --- | --- | --- | --- | --- |
-| 2026 | EACL | Let's Put Ourselves in Sally's Shoes: Shoes of Others Prefilling Improves Theory of Mind in LLMs | [查看](https://aclanthology.org/2026.findings-eacl.6/) | [摘要](paper/ToM-EACL-2026-Lets-Put-Ourselves-in-Sallys-Shoes-Shoes-of-Others-Prefilling-Improves-Theory-of-Mind-in-LLMs.md) | - |
 | 2025 | arXiv | ToM-RL: Reinforcement Learning Unlocks Theory of Mind in Small LLMs | [查看](https://arxiv.org/abs/2504.01698) | [摘要](paper/ToM-arXiv-2025-ToM-RL-Reinforcement-Learning-Unlocks-Theory-of-Mind-in-Small-LLMs.md) | [代码](https://github.com/bigai-ai/ToM-R) |
-
+| 2026 | EACL | Let's Put Ourselves in Sally's Shoes: Shoes of Others Prefilling Improves Theory of Mind in LLMs | [查看](https://aclanthology.org/2026.findings-eacl.6/) | [摘要](paper/ToM-EACL-2026-Lets-Put-Ourselves-in-Sallys-Shoes-Shoes-of-Others-Prefilling-Improves-Theory-of-Mind-in-LLMs.md) | - |
 ---
 
 ## 📁 仓库结构
