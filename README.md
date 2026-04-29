@@ -120,7 +120,6 @@
 | 2025 | arXiv | MINDGAMES: Do Large Language Models Have a Planning Theory of Mind? | [查看](https://arxiv.org/pdf/2507.16196v1.pdf) | [摘要](paper/TOM+PD-arXiv-2025-MINDGAMES:%20Do%20Large%20Language%20Models%20Have%20a%20Planning%20Theory%20of%20Mind?.md) | [代码](https://github.com/jlcmoore/mindgames) |
 | 2025 | arXiv | MINDGAMES: Do Large Language Models Have a Planning Theory of Mind? | [查看](https://arxiv.org/pdf/2507.16196v1.pdf) | [摘要](paper/TOM+PD-arXiv-2025-MINDGAMES:%20Do%20Large%20Language%20Models%20Have%20a%20Planning%20Theory%20of%20Mind?.md) | [代码](https://github.com/jlcmoore/mindgames) |
 | 2026 | AAAI | RecToM: A Benchmark for Evaluating Machine Theory of Mind in LLM-based Conversational Recommender Systems | [查看](https://arxiv.org/pdf/2511.22275) | [摘要](paper/ToM+Recommend+Data-AAAI-2026-RecToM-%20A%20Benchmark%20for%20Evaluating%20Machine%20Theory%20of%20Mind%20in%20LLM-based%20Conversational%20Recommender%20Systems.md) | [代码](https://github.com/CGCL-codes/RecToM) |
-| 2025 | AAAI | ToMATO: Verbalizing the Mental States of Role-Playing LLMs for Benchmarking Theory of Mind | - | [摘要](paper/ToM+Data-AAAI-2025-ToMATO-%20Verbalizing%20the%20Mental%20States%20of%20Role-Playing%20LLMs%20for%20Benchmarking%20Theory%20of%20Mind.md) | [代码](https://github.com/nttmdlab-nlp/ToMATO) |
 ---
 
 ## 📁 仓库结构
