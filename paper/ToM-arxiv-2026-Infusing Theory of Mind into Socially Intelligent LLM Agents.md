@@ -3,7 +3,7 @@
 
 *论文下载地址：https://arxiv.org/abs/2509.22887*
 
-*代码是否开源：是*
+*代码是否开源：https://github.com/eujhwang/toma*
 
 *分享人：马明晖*
 
