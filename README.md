@@ -30,6 +30,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 2025 | NAACL | Communication Makes Perfect: Persuasion Dataset Construction via Multi-LLM Communication | [查看](https://aclanthology.org/2025.naacl-main.287/) | [摘要](paper/Data-NAACL-2025-Communication%20Makes%20Perfect%3A%20Persuasion%20Dataset%20Construction%20via%20Multi-LLM%20Communication.md) | [代码](https://github.com/HF-heaven/LLM-based_persuasion_simulator) |
 | 2025 | ACL | Beyond Verbal Cues: Emotional Contagion Graph Network for Causal Emotion Entailment | [查看](-) | [摘要](paper/Data-ACL-2025-Beyond%20Verbal%20Cues%3A%20Emotional%20Contagion%20Graph%20Network%20for%20Causal%20Emotion%20Entailment.md) | - |
+| 2026 | WWW | ES-MemEval- Benchmarking Conversational Agents on Personalized Long-Term Emotional Support | [查看](https://doi.org/10.1145/3774904.3792143) | [摘要](paper/Data-WWW-2026-ES-MemEval-%20Benchmarking%20Conversational%20Agents%20on%20Personalized%20Long-Term%20Emotional%20Support.md) | [代码](https://github.com/slptongji/ES-MemEval) |
 ### ED：Empathetic Dialogue Systems
 | 年份 | 会议/期刊 | 论文 | 链接 | 摘要 | 代码 |
 | --- | --- | --- | --- | --- | --- |
@@ -104,9 +105,13 @@
 | 2025 | TKDE | A Causal-Based Attribute Selection Strategy for Conversational Recommender Systems | [查看](https://ieeexplore.ieee.org/abstract/document/10891447) | [摘要](paper/Recommend-TKDE-2025-A%20Causal-Based%20Attribute%20Selection%20Strategy%20for%20Conversational%20Recommender%20Systems.md) | - |
 | 2025 | WWW | Bridging Conversational and Collaborative Signals for Conversational Recommendation | [查看](https://doi.org/10.1145/3701716.3715486) | [摘要](paper/Recommend-WWW-2025-Bridging%20Conversational%20and%20Collaborative%20Signals%20for%20Conversational%20Recommendation.md) | - |
 | 2025 | WWW | Collaborative Retrieval for Large Language Model-based Conversational Recommender Systems | [查看](https://dl.acm.org/doi/10.1145/3589334.3645347) | [摘要](paper/Recommend-WWW-2025-Collaborative%20Retrieval%20for%20Large%20Language%20Model-based%20Conversational%20Recommender%20Systems.md) | [代码](https://github.com/yaochenzhu/CRAG) |
+| 2025 | WWW | Towards Efficient Conversational Recommendations- Expected Value of Information Meets Bandit Learning | [查看](https://doi.org/10.1145/3696410.3714773) | [摘要](paper/Recommend-WWW-2025-Towards%20Efficient%20Conversational%20Recommendations-%20Expected%20Value%20of%20Information%20Meets%20Bandit%20Learning.md) | - |
 | 2025 | arXiv | A Framework for Generating Conversational Recommendation Datasets from Behavioral Interactions | [查看](https://arxiv.org/abs/2506.17285) | [摘要](paper/Recommend-arXiv-2025-A%20Framework%20for%20Generating%20Conversational%20Recommendation%20Datasets%20from%20Behavioral%20Interactions.md) | - |
 | 2025 | EMNLP | LLM-based Conversational Recommendation Agents with Collaborative Verbalized Experience | [查看](-) | [摘要](paper/Recommend-EMNLP-2025-LLM-based%20Conversational%20Recommendation%20Agents%20with%20Collaborative%20Verbalized%20Experience.md) | [代码](https://github.com/yaochenzhu/CRAVE) |
 | 2025 | EMNLP | Towards Personalized Conversational Sales Agents | [查看](https://arxiv.org/abs/2504.08754) | [摘要](paper/Recommend-EMNLP-2025-Towards%20Personalized%20Conversational%20Sales%20Agents.md) | - |
+| 2026 | WWW | Not All Information Brings Benefits- Personalization-Driven Agent Debate for Conversational Recommendation | [查看](https://doi.org/10.1145/3774904.3792152) | [摘要](paper/Recommend-WWW-2026-Not%20All%20Information%20Brings%20Benefits-%20Personalization-Driven%20Agent%20Debate%20for%20Conversational%20Recommendation.md) | - |
+| 2026 | WWW | Optimizing Multi-Turn Interactive Recommendation Agents via Generative Intrinsic Motivation | [查看](https://doi.org/10.1145/3774904.3792209) | [摘要](paper/Recommend-WWW-2026-Optimizing%20Multi-Turn%20Interactive%20Recommendation%20Agents%20via%20Generative%20Intrinsic%20Motivation.md) | [代码](https://github.com/XueyangFeng/GIMO) |
+| 2026 | arxiv | User Simulator-Guided Multi-Turn Preference Optimization for Reasoning LLM-based Conversational Recommendation | [查看](-) | [摘要](paper/Recommend-arxiv-2026-User%20Simulator-Guided%20Multi-Turn%20Preference%20Optimization%20for%20Reasoning%20LLM-based%20Conversational%20Recommendation.md) | - |
 ### SN：Social Network
 | 年份 | 会议/期刊 | 论文 | 链接 | 摘要 | 代码 |
 | --- | --- | --- | --- | --- | --- |
