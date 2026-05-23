@@ -138,6 +138,12 @@
 | 2026 | arXiv | Infusing Theory of Mind into Socially Intelligent LLM Agents | [查看](https://arxiv.org/abs/2509.22887) | [摘要](paper/ToM-arxiv-2026-Infusing%20Theory%20of%20Mind%20into%20Socially%20Intelligent%20LLM%20Agents.md) | [代码](https://github.com/eujhwang/toma) |
 | 2025 | arXiv | MINDGAMES: Do Large Language Models Have a Planning Theory of Mind? | [查看](https://arxiv.org/pdf/2507.16196v1.pdf) | [摘要](paper/TOM+PD-arXiv-2025-MINDGAMES:%20Do%20Large%20Language%20Models%20Have%20a%20Planning%20Theory%20of%20Mind?.md) | [代码](https://github.com/jlcmoore/mindgames) |
 | 2026 | AAAI | RecToM: A Benchmark for Evaluating Machine Theory of Mind in LLM-based Conversational Recommender Systems | [查看](https://arxiv.org/pdf/2511.22275) | [摘要](paper/ToM+Recommend+Data-AAAI-2026-RecToM-%20A%20Benchmark%20for%20Evaluating%20Machine%20Theory%20of%20Mind%20in%20LLM-based%20Conversational%20Recommender%20Systems.md) | [代码](https://github.com/CGCL-codes/RecToM) |
+### US：User Simulator
+| 年份 | 会议/期刊 | 论文 | 链接 | 摘要 | 代码 |
+| --- | --- | --- | --- | --- | --- |
+| 2025 | SIGDIAL | Generating Diverse Personas for User Simulators to Test Interview Dialogue Systems | [查看](-) | [摘要](paper/US-SIGDIAL-2025-Generating%20Diverse%20Personas%20for%20User%20Simulators%20to%20Test%20Interview%20Dialogue%20Systems.md) | - |
+| 2025 | SIGIR | Simulating Before Planning- Constructing Intrinsic User World Model for User-Tailored Dialogue Policy Planning | [查看](https://doi.org/10.1145/3726302.3730084) | [摘要](paper/US-SIGIR-2025-Simulating%20Before%20Planning-%20Constructing%20Intrinsic%20User%20World%20Model%20for%20User-Tailored%20Dialogue%20Policy%20Planning.md) | - |
+| 2025 | SIGIR | Theory and Toolkits for User Simulation in the Era of Generative AI- User Modeling, Synthetic Data Generation, and System Evaluation | [查看](https://doi.org/10.1145/3726302.3731697) | [摘要](paper/US-SIGIR-2025-Theory%20and%20Toolkits%20for%20User%20Simulation%20in%20the%20Era%20of%20Generative%20AI-%20User%20Modeling%2C%20Synthetic%20Data%20Generation%2C%20and%20System%20Evaluation.md) | - |
 ---
 
 ## 📁 仓库结构
