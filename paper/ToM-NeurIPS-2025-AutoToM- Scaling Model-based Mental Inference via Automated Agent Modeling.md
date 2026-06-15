@@ -1,6 +1,6 @@
 # ToM-NeurIPS-2025-AutoToM- Scaling Model-based Mental Inference via Automated Agent Modeling
 
-*论文下载地址（可选）：未提及*
+*论文下载地址（可选）：https://arxiv.org/abs/2502.15676*
 
 *代码是否开源：未提及*
 

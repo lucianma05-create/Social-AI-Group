@@ -1,8 +1,8 @@
 # ToM-arXiv-2026-EnactToM- An Evolving Benchmark for Functional Theory of Mind in Embodied Agents
 
-*论文下载地址（可选）：未提及*
+*论文下载地址（可选）：https://arxiv.org/abs/2605.09826*
 
-*代码是否开源：未提及*
+*代码是否开源：https://enact-tom.github.io/*
 
 *分享人：马明晖*
 

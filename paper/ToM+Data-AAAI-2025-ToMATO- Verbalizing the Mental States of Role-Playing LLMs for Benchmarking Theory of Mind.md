@@ -1,7 +1,7 @@
 # ToM+Data-AAAI-2025-ToMATO-Verbalizing the Mental States of Role-Playing LLMs for Benchmarking Theory of Mind
 > 说明：本文档内容默认使用中文生成（论文标题与必要专有名词除外）。
 
-*论文下载地址：未提及*
+*论文下载地址：https://arxiv.org/abs/2501.08838*
 
 *代码是否开源：是 https://github.com/nttmdlab-nlp/ToMATO*
 

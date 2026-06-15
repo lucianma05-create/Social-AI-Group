@@ -1,6 +1,6 @@
 # ToM-ICML-2025-Overcoming Multi-step Complexity in Multimodal Theory-of-Mind Reasoning- A Scalable Bayesian Planner
 
-*论文下载地址（可选）：未提及*
+*论文下载地址（可选）：https://arxiv.org/abs/2506.01301*
 
 *代码是否开源：未提及*
 

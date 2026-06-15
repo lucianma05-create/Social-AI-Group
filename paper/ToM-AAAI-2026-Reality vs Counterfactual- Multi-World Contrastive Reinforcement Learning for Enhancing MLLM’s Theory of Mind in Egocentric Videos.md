@@ -1,6 +1,6 @@
 # ToM-AAAI-2026-Reality vs Counterfactual- Multi-World Contrastive Reinforcement Learning for Enhancing MLLM’s Theory of Mind in Egocentric Videos
 
-*论文下载地址（可选）：未提及*
+*论文下载地址（可选）：https://ojs.aaai.org/index.php/AAAI/article/view/37162*
 
 *代码是否开源：未提及*
 
