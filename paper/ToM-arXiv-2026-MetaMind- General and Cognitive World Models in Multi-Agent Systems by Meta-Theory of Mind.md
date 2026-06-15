@@ -1,6 +1,6 @@
 # ToM-arXiv-2026-MetaMind- General and Cognitive World Models in Multi-Agent Systems by Meta-Theory of Mind
 
-*论文下载地址（可选）：未提及*
+*论文下载地址（可选）：https://arxiv.org/abs/2603.00808*
 
 *代码是否开源：未提及*
 

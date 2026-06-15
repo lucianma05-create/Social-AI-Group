@@ -1,6 +1,6 @@
 # ToM-arXiv-2026-UserHarness- Harnessing User Minds for Stronger Agent Theory-of-Mind
 
-*论文下载地址（可选）：未提及*
+*论文下载地址（可选）：https://arxiv.org/abs/2605.27721*
 
 *代码是否开源：未提及*
 

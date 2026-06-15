@@ -1,8 +1,8 @@
 # ToM-ACL-2025-Towards Dynamic Theory of Mind- Evaluating LLM Adaptation to Temporal Evolution of Human States
 
-*论文下载地址（可选）：未提及*
+*论文下载地址（可选）：https://arxiv.org/abs/2505.17663*
 
-*代码是否开源：是*
+*代码是否开源：https://github.com/GAIR-NLP/DynToM*
 
 *分享人：马明晖*
 

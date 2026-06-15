@@ -1,6 +1,6 @@
-# ToM-AAAI-2026-RecToM- A Benchmark for Evaluating Machine Theory of Mind in LLM-based Conversational Recommender Systems
+# ToM+Data-AAAI-2026-RecToM- A Benchmark for Evaluating Machine Theory of Mind in LLM-based Conversational Recommender Systems
 
-*论文下载地址（可选）：未提及*
+*论文下载地址（可选）：https://arxiv.org/abs/2511.22275*
 
 *代码是否开源：是 [https://github.com/CGCL-codes/RecToM](https://github.com/CGCL-codes/RecToM)*
 
