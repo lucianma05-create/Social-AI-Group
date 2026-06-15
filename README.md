@@ -137,6 +137,7 @@
 ### ToM：Theory of Mind
 | 年份 | 会议/期刊 | 论文 | 链接 | 摘要 | 代码 |
 | --- | --- | --- | --- | --- | --- |
+| 2025 | ICLR | Explore theory of mind: program-guided adversarial data generation for theory of mind reasoning | [查看](https://proceedings.iclr.cc/paper_files/paper/2025/file/a901d5540789a086ee0881a82211b63d-Paper-Conference.pdf) | [摘要](paper/ToM-2025-Explore%20theory%20of%20mind%20program-guided%20adversarial%20data%20generation%20for%20theory%20of%20mind reasoning.md) | [代码]( https://github.com/facebookresearch/exploretom) |
 | 2024 | ACL | Evaluating Intention Detection Capability of Large Language Models in Persuasive Dialogues | [查看](https://aclanthology.org/2024.acl-long.90.pdf) | [摘要](paper/ToM-ACL-2024-Evaluating%20Intention%20Detection%20Capability%20of%20Large%20Language%20Models%20in%20Persuasive%20Dialogues.md) | [代码](https://github.com/Syuko4omi/LLM_intention_detection_public) |
 | 2025 | arXiv | ToM-RL: Reinforcement Learning Unlocks Theory of Mind in Small LLMs | [查看](https://arxiv.org/abs/2504.01698) | [摘要](paper/ToM-arXiv-2025-ToM-RL-Reinforcement-Learning-Unlocks-Theory-of-Mind-in-Small-LLMs.md) | [代码](https://github.com/bigai-ai/ToM-R) |
 | 2026 | EACL | Let's Put Ourselves in Sally's Shoes: Shoes of Others Prefilling Improves Theory of Mind in LLMs | [查看](https://aclanthology.org/2026.findings-eacl.6/) | [摘要](paper/ToM-EACL-2026-Lets-Put-Ourselves-in-Sallys-Shoes-Shoes-of-Others-Prefilling-Improves-Theory-of-Mind-in-LLMs.md) | - |
